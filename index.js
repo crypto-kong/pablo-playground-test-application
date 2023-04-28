@@ -8,7 +8,7 @@ fastify.get('/', async (request, reply) => {
 })
 //Health
 fastify.get('/health', async (request, reply) => {
-    return { status: 'ok' };
+    reply.code(500).send({ status: 'ok' });
 })
 
 // Run the server!
