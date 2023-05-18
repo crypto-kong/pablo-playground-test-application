@@ -1,2 +1,2 @@
 # template-example
-Template example CD Enabled test
+Template example CD Enabled test 2
