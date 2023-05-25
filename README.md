@@ -1,2 +1,2 @@
 # template-example
-Template example CI 2
+Template example CI
